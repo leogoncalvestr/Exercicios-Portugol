@@ -14,4 +14,6 @@ senao
 escreval("É impar")
 fimse
 
+testantdo git
+
 fimalgoritmo
