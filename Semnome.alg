@@ -5,7 +5,7 @@ var
 n : inteiro
 
 inicio
-Escreval("Digite um numero : ")
+Escreval("Digite um numero de verdade: ")
 leia(n)
 
 se n % 2 = 0 entao
